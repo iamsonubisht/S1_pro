@@ -1,6 +1,6 @@
 # 🏙️ Smart City Platform
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://smartcity-fsd8.onrender.com/)
+[![Live Demo -SOON]()
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](#license)
 ![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)
